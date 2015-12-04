@@ -1,0 +1,21 @@
+p {
+	color: blue;
+}
+
+body {
+	font-size: 14 px;
+	color: navy;
+	background-color: #e6b3cd;
+	
+}
+
+h1 {
+	background-color: #ffccff;
+	text-align: center;
+	border: 5 px;
+	border-style: dashed;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
