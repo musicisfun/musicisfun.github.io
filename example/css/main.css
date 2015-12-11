@@ -8,14 +8,46 @@ body {
 	background-color: #e6b3cd;
 	
 }
+#maincontent {
+	margin-left: 150px;
+	padding-left: 25px;
+	margin-right: 75px;
+}
 
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: fixed;
+	
+}
+
+nav ul li a {
+	display: block;
+	width: 80px;
+	background-color: #f1f1f1;
+	text-decoration: none;
+	color: #000;
+
+}
+
+nav ul li a:hover {
+	background-color: #555;
+	color: #fff;
+}
+
+.active {
+	background-color: #4CAF50;
+	color: #fff;
+}
 h1 {
+	font-family: 'Amatic SC', cursive;
 	background-color: #ffccff;
 	text-align: center;
 	border: 5 px;
 	border-style: dashed;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 }
