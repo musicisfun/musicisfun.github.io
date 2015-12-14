@@ -40,6 +40,14 @@ nav ul li a:hover {
 	background-color: #4CAF50;
 	color: #fff;
 }
+
+@media screen and (max-width: 600px) {
+	nav{
+		display: none;
+	}
+}
+
+
 h1 {
 	font-family: 'Amatic SC', cursive;
 	background-color: #ffccff;
