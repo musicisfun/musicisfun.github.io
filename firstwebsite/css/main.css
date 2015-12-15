@@ -14,10 +14,14 @@ nav ul {
 
 nav ul li a {
 	display: block;
-	width: 80px;
-	background-color: #FFBB00;
+	width: 120px;
+	background-color: #61C39B;
 	text-decoration: none;
 	color: #000;
+	border-right: solid;
+	border-left: solid;
+
+	border-color: #fff
 
 }
 
@@ -38,23 +42,28 @@ nav ul {
 	margin: 0;
 	padding: 0;
 	position: fixed;
-	height: 100%;
-	top: 0;
-	bottom: 0;
 	
 }
 
 nav ul li a {
 	display: block;
 	width: 80px;
-	background-color: #b6b5b1;
+	background-color: #f1f1f1;
 	text-decoration: none;
-	color: #32AC7B;
+	color: #000;
 
 }
+
 }
 	
 
 img.resize {
 	max-height: 300px;
+}
+
+body {
+	font-size: 14 px;
+	color: navy;
+	background-color: #61C39B;
+	
 }
