@@ -50,8 +50,7 @@ nav ul li a {
 	width: 80px;
 	background-color: #f1f1f1;
 	text-decoration: none;
-	color: #000;
-
+	transition: background-color 2s;
 }
 
 }
@@ -61,9 +60,21 @@ img.resize {
 	max-height: 300px;
 }
 
+h 1 {
+	font-family: <link href='https://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'> ;
+	border: 5px;
+	border-style: solid;
+	text-align: center;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background-color: #2D57B9
+}
+
+
 body {
 	font-size: 14 px;
 	color: navy;
 	background-color: #61C39B;
 	
 }
+
