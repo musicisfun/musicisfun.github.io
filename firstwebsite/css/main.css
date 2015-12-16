@@ -1,3 +1,16 @@
+h 1 {
+	font-family: 'Oswald', cursive;
+	background-color: #ffccff;
+	text-align: center;
+	border: 5 px;
+	border-style: dashed;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+
 #maincontent {
 	margin-left: 150px;
 	padding-left: 25px;
@@ -61,13 +74,15 @@ img.resize {
 }
 
 h 1 {
-	font-family: <link href='https://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'> ;
-	border: 5px;
-	border-style: solid;
+	font-family: cursive;
+	background-color: #ffccff;
 	text-align: center;
-	padding-top: 200px;
-	padding-bottom: 200px;
-	background-color: #2D57B9
+	border: 5 px;
+	border-style: dashed;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 
